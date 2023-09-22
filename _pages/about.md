@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "A bit about myself"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-A bit about myself 
-======
 I am an MSc candidate in Political Science at Fundação Getulio Vargas' Department of Economics (FGV-EESP & CEPESP). I concluded my Bachelor of Arts in political science and IR at FGV-RI in 2022 (*cum laude*). I have also attended the Department of Politics at Universidad Torcuato di Tella (Buenos Aires, Argentina - 2020) and the Department of Social Sciences at the University of Oslo (Oslo, Norway – 2021).
 
 A data-driven personal website
