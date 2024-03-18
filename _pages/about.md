@@ -14,7 +14,7 @@ I am an MSc candidate in Political Science at Fundação Getulio Vargas (FGV-EES
 
 A bit about what I do
 ======
-I am Program Assistant at [Evaluasi](https://www.evaluasi.io/team), a Texas based start-up focused on improving impact evaluation of corporate social responsibility efforts. Concurrent, I help to clean, wrangle and publicize Brazilian electoral data (from TSE) on [CepespData](https://cepespdata.io/). I am responsible for tracking down the coordinates of all polling stations in Brazil (since redemocratization, in 1994). I build Voronoi polygons (for fun and for living) and help to dissiminate data on the geography elections and the spatial concentration of votes of Brazilian candidates. I am also research assistant at Vanderbilt University's Department of Political Science (under the supervision of Professor Guillermo Toral).  
+I am Program Assistant at [Evaluasi](https://www.evaluasi.io/team), a Texas based start-up focused on improving impact evaluation of corporate social responsibility efforts. Concurrent, I help to clean, wrangle and publicize Brazilian electoral data (from TSE) on [CepespData](https://cepespdata.io/). I am responsible for tracking down the coordinates of all polling stations in Brazil (since redemocratization, in 1994). I build Voronoi polygons (for fun and for living) and help to dissiminate data on the geography elections. I am also research assistant at Vanderbilt University's Department of Political Science (under the supervision of Professor Guillermo Toral).  
 
 A bit about my research interests 
 ======
